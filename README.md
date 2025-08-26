@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**mike0profecional-star/mike0profecional-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:wrench: **Ingeniero Mecánico Electricista**
+:chart_with_upwards_trend: **Diplomado en Transformación Digital**
+:keyboard: **Aprendiendo Programación**
+:biceps: **Gym**
+:soccer: **Futbol**
+:mortar_board: **Orgullosamente UNAM**
+:triangular_flag_on_post: **Estado de México, México**
 
-Here are some ideas to get you started:
+### Vias de contacto 
+![website]www.linkedin.com/in/miguel-rincon-226094313
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Actividades
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mike0profecional-star/mike0profecional-star)
